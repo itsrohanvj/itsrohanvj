@@ -1,5 +1,8 @@
 ### Hi there 👋
-#### www.twitter.com/itsrohanvj 
+#### [[Twitter](www.twitter.com/itsrohanvj )
+#### [LinkedIn](www.linkedin.com/in/itsrohanvj)
+
+#### 
 #### 😄 Thanks for stopping by. Suggestions on repositories are welcomed!
 <!--
 **itsrohanvj/itsrohanvj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
