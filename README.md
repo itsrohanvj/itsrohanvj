@@ -10,7 +10,8 @@ I am Rohan, Undergraduate, major in Computer Science. I love Python (!Snakes) an
 ### ⚡Interests:
 #### Programming, Football, Latin Music, Travel and Food (Reviews: <a href="https://www.zomato.com/soofoodie"> Zomato </a>)
 
-#### 😄 Thanks for stopping by. Suggestions on repositories are welcomed!
+
+##### 😄 Thanks for stopping by. Suggestions on repositories are welcomed!
 <!--
 **itsrohanvj/itsrohanvj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
