@@ -1,6 +1,6 @@
 ### Hi there 👋
-#### [[Twitter](www.twitter.com/itsrohanvj )
-#### [LinkedIn](www.linkedin.com/in/itsrohanvj)
+#### [Twitter](www.twitter.com/itsrohanvj )    [LinkedIn](www.linkedin.com/in/itsrohanvj)
+#### 
 
 #### 
 #### 😄 Thanks for stopping by. Suggestions on repositories are welcomed!
