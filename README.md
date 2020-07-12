@@ -2,7 +2,9 @@
 I am Rohan, Undergraduate, major in Computer Science. I love Python (!Snakes) and playing Table tennis. I am an hardcore football fan.
 
 ### 📲In this pandemic time we have to maintain strict social distancing but not online!
-### <a href="https://www.twitter.com/itsrohanvj"> Twitter </a>  <a href="https://www.linkedin.com/in/itsrohanvj"> LinkedIn </a>
+### <a href="https://www.twitter.com/itsrohanvj"> Twitter </a>  [![Twitter Follow](https://img.shields.io/twitter/follow/istrohanvj?style=social)](https://twitter.com/istrohanvj)
+
+<a href="https://www.linkedin.com/in/itsrohanvj"> LinkedIn </a>
 
 ### 💻Tech Stack:
 #### Python, OpenCV, Pytorch, Java, ML.
