@@ -14,6 +14,7 @@ I am Rohan, Undergraduate, major in Computer Science. I love Python (!Snakes) an
 
 
 ##### 😄 Thanks for stopping by. Suggestions on repositories are welcomed!
+[![Visitors](https://visitor-badge.glitch.me/badge?page_id=itsrohanvj.visitor-badge)](https://github.com/itsrohanvj)
 <!--
 **itsrohanvj/itsrohanvj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
