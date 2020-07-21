@@ -3,8 +3,7 @@ I am Rohan, Undergraduate, major in Computer Science. I love Python (!Snakes) an
 
 ### 📲In this pandemic time we have to maintain strict social distancing but not online!
 #### Twitter : [![Twitter Follow](https://img.shields.io/twitter/follow/itsrohanvj?style=social)](https://twitter.com/itsrohanvj)
-
-#### <a href="https://www.linkedin.com/in/itsrohanvj"> LinkedIn </a>
+#### LinkedIn : [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/itsrohanvj/)](https://www.linkedin.com/in/itsrohanvj/)
 
 ### 💻Tech Stack:
 #### Python, OpenCV, Pytorch, Java, ML.
@@ -22,7 +21,7 @@ Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
 - [Twitter](www.twitter.com/itsrohanvj )    [LinkedIn](www.linkedin.com/in/itsrohanvj)  [Wordpress](www.wordpress.com/itsrohanvj)
-- 🌱 I’m currently learning ...
+- 🌱 I’m currently learning #### <a href="https://www.linkedin.com/in/itsrohanvj"> LinkedIn </a>
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
