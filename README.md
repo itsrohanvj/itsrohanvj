@@ -14,7 +14,7 @@ I am Rohan, Undergraduate, major in Computer Science. I love Python (!Snakes) an
 
 [![Github Stats](https://github-readme-stats.vercel.app/api?username=itsrohanvj&hide=[%22issues%22,%22prs%22,%22contribs%22]&show_icons=true&theme=default)](https://github.com/itsrohanvj)
 
-##### 😄 Thanks for stopping by. Suggestions on repositories are welcomed!
+#### 😄 Thanks for stopping by. Suggestions on repositories are welcomed!
 
 [![Visitors](https://visitor-badge.glitch.me/badge?page_id=itsrohanvj.visitor-badge)](https://github.com/itsrohanvj)
 <!--
