@@ -16,12 +16,12 @@ I am Rohan, Undergraduate, major in Computer Science. I love Python (!Snakes) an
 
 #### 😄 Thanks for stopping by. Suggestions on repositories are welcomed!
 
-[![Visitors](https://visitor-badge.glitch.me/badge?page_id=itsrohanvj.visitor-badge)](https://github.com/itsrohanvj)
+
 <!--
 **itsrohanvj/itsrohanvj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
-
+[![Visitors](https://visitor-badge.glitch.me/badge?page_id=itsrohanvj.visitor-badge)](https://github.com/itsrohanvj)
 - 🔭 I’m currently working on ...
 - [Twitter](www.twitter.com/itsrohanvj )    [LinkedIn](www.linkedin.com/in/itsrohanvj)  [Wordpress](www.wordpress.com/itsrohanvj)
 - 🌱 I’m currently learning #### <a href="https://www.linkedin.com/in/itsrohanvj"> LinkedIn </a>
