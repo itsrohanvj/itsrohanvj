@@ -6,7 +6,7 @@ I am Rohan, Undergraduate, major in Computer Science. I love Python (!Snakes) an
 #### LinkedIn : [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/itsrohanvj/)](https://www.linkedin.com/in/itsrohanvj/)
 
 ### 💻Tech Stack:
-#### Python, OpenCV, Pytorch, Java, ML.
+#### Python, OpenCV, Pytorch, Java, ML, Deep Learning.
 
 ### ⚡Interests:
 #### Programming, Football, Latin Music, Travel and Food (Reviews: <a href="https://www.zomato.com/soofoodie"> Zomato </a>)
