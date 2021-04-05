@@ -1,5 +1,5 @@
 ### Hi there 👋
-I am Rohan, Undergraduate, major in Computer Science. I love Python (!Snakes) and playing Table tennis. I am an hardcore football fan.
+I am Rohan, graduate, major in Computer Science. I love Python (!Snakes) and playing Table tennis. I am an hardcore football fan.
 
 ### 📲In this pandemic time we have to maintain strict social distancing but not online!
 #### Twitter : [![Twitter Follow](https://img.shields.io/twitter/follow/itsrohanvj?style=social)](https://twitter.com/itsrohanvj)
