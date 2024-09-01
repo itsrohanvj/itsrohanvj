@@ -1,12 +1,12 @@
 ### Hi there 👋
-I am Rohan, graduate, major in Computer Science. I love Python (!Snakes) and playing Table tennis. I am an hardcore football fan.
+I am a Data Engineer. I love Python (!Snakes), AWS and playing Table tennis. I am an hardcore football fan.
 
 ### 📲In this pandemic time we have to maintain strict social distancing but not online!
 #### Twitter : [![Twitter Follow](https://img.shields.io/twitter/follow/itsrohanvj?style=social)](https://twitter.com/itsrohanvj)
 #### LinkedIn : [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/itsrohanvj/)](https://www.linkedin.com/in/itsrohanvj/)
 
 ### 💻Tech Stack:
-#### Python, OpenCV, Pytorch, Java, ML, Deep Learning, PySpark, AWS.
+#### Python, AWS, Spark, Hive, Pandas, Snowflake, Airflow, SQL.
 
 ### ⚡Interests:
 #### Programming, Football, Latin Music, Travel and Food (Reviews: <a href="https://www.zomato.com/soofoodie"> Zomato </a>)
